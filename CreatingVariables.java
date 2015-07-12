@@ -20,7 +20,7 @@ public class CreatingVariables
 		title = "Mr.";
 		
 		System.out.println( "The variable x contains " + x );
-		System.out.println( "The value " + y + " is stored in the variable")
+		System.out.println( "The value " + y + " is stored in the variable");
 		System.out.println( "The experiment completed in " + seconds + " seconds." );
 		System.out.println( "My favorite irrational number is Euler's constant: " + e );
 		System.out.println( "Hopefully your balance is more than $" + checking + "!" );
