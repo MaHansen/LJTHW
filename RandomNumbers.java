@@ -1,3 +1,4 @@
+//Exercise 24
 public class RandomNumbers
 {
 	public static void main( String[] args )
